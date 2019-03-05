@@ -3,6 +3,8 @@ include("include/dbcon.php");
 ?>
 
 
+
+
 <!doctype html>
 <html class="no-js" lang="en">
 	
@@ -12,7 +14,7 @@ include("include/dbcon.php");
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<title>Zaptox Software Solutions</title>
 		<meta name="description" content="Zaptox is a software house established in 2017. We provide imaginative,innovative and fully integrated solutions that suits your business demands">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="viewoprt" content="width=device-width, initial-scale=1">
 
 		<!-- favicon -->		
 		
@@ -189,11 +191,9 @@ $('#submit').click(function(){
 											<a class="page-scroll" href="#about">About</a>
 										</li>
 										<li>
-											<a class="page-scroll" href="#services">Services</a>
+											<a class="page-scroll" href="#video">Video</a>
 										</li>
-                                        <li>
-                                            <a class="page-scroll" href="#portfolio">Work</a>
-                                        </li>
+                                       
 										<li>
 											<a class="page-scroll" href="#team">Team</a>
 										</li>	              	
@@ -233,7 +233,7 @@ $('#submit').click(function(){
                                         <div class="intro-content">
                                             <!-- layer 2 -->
                                             <div class="layer-1-2  wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                                                <h1 class="title3">The ideal Solutions <br> about your business </h1>
+                                                <h1 class="title3">Saving Water,  <br> without wasting it. </h1>
                                             </div>
                                             
                                             <!-- layer 3 -->
@@ -258,7 +258,7 @@ $('#submit').click(function(){
                                         <div class="intro-content">
                                             <!-- layer 2 -->
                                             <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                                                <h1 class="title2">We convert your strategies into software systems & technology processes that elevate your business performance.
+                                                <h1 class="title2">
                                                 </h1>
                                             </div>
                                             <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
@@ -286,11 +286,11 @@ $('#submit').click(function(){
                                         <div class="intro-content">
                                             <!-- layer 2 -->
                                             <div class="layer-1-2  wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                                                <h1 class="title2">Highly Qualified Designers <br/> 
-                                                That analyze your ideas</h1>
+                                                <h1 class="title2">The actual problem we have seen cases of people dying in dehydration which is the main reason why we have come up with the idea of not wasting but reusing it. 
+                                          </h1>
                                             </div>
                                             <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                                                <h6 class="title3">Good Design is the Good Business</h6>
+                                                
                                             </div>
                                             <!-- layer 3 -->
                                             <div class="layer-1-3  wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
@@ -308,6 +308,9 @@ $('#submit').click(function(){
 		</div>
 		<!-- End Slider Area -->
         <!-- Start About Area -->
+
+
+
         <div id ="about" class="about-area page-scroll area-padding">
             <div class="container">
                 <div class="row">
@@ -323,23 +326,16 @@ $('#submit').click(function(){
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="about-middle">
                             <div class="about-well">
-                                <p>Welcome to Zaptox, your ideal source for all software professional services in Pakistan.
-We are committed to give you the very best of our customized IT solutions services, with a focus on high quality, customer satisfaction and uniqueness.
-We create a wide variety of IT services and features that empower our customers to grow their business.<br/>
-We are also dedicated to frequently study and research the rapid changes of international markets in order to adjust to new technologies and enable our clients to face any future techno-changes and any technological transformations arising today and tomorrow's digital age.
+                                <p>With increasing population number of problems increases too be it is a water or any other resource, we as a part of society has come up with the solution of saving water moreover we have given idea how to save water efficiently which is inspired by the gray water recycling in which waste water is generated in our homes is used like water from showers, kitchen, basins is collected which is further used in irrigation backyard gardens and further more but with a modifications like two water tanks and providing safe drinking water that wasn't provided by gray water system itself.
+
 <br/>
-<b>Our Vision</b> With the use our skills, expertise to develop software solutions,services and technologies that leaves a considerable impact globally.
+<b>Our Mission</b> Waste water generated in our homes is recycled i.e. water from showers, kitchen, basins is collected which is further processed and can be used in house-hold and for drinking purpose.
 <br/>
-<b>Our Mission</b> is to developing software solutions and services that are used as leverage to improve our business as well as our clients; domestically and globally.
+
+<b>Our Vision</b> In future we will make a distributed system for commercial areas and societies.
+
                                 </p>
-                                <ul class="about-list hidden-sm">
-                                    <li><a href="#">Our Team</a></li>
-                                    <li><a href="#">Our Projects</a></li>
-                                 
-                                   
-                                   
-                                   
-                                </ul>
+                               
                             </div>
                         </div>
                     </div>
@@ -360,389 +356,45 @@ We are also dedicated to frequently study and research the rapid changes of inte
         </div>
         <!-- end About -->
         
-		<!-- Start Service area -->
-		<div id="services" class="services-area area-padding">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 col-sm-12 col-xs-12">
-						<div class="section-headline">
-						<h2>Our Services</h2>
-						<hr>
-						</div>
-					</div>
-				</div>
-                <div class="row">
-                    <div class="services-contents">
-						<!-- Start Left services -->
-						<div class="col-md-4 col-sm-4 col-xs-12">
-							<div class="about-move">
-								<div class="services-details">
-									<div class="single-services">
-										<a class="services-icon" href="#">
-											<i class="fa fa-mobile"></i>
-										</a>
-										<h4>Mobile Applications</h4>
-										<p>
-                                            We transform your business model into interactive hybird mobile application,or if you suggest a perticular platform for app then most welcome.
-										</p>
-									</div>
-								</div>
-								<!-- end about-details -->
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 col-xs-12">
-							<div class="about-move">
-								<div class="services-details">
-									<div class="single-services">
-										<a class="services-icon" href="#">
-											<i class="fa fa-television"></i>
-										</a>
-										<h4>Web Design</h4>
-										<p>
-                                            We have passionate , experienced web designers that take the requirement and design your interative  business model website.
-										</p>
-									</div>
-								</div>
-								<!-- end about-details -->
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 col-xs-12">
-								<!-- end col-md-4 -->
-							<div class=" about-move">
-								<div class="services-details">
-									<div class="single-services">
-										<a class="services-icon" href="#">
-											<i class="fa fa-file-text"></i>
-										</a>
-										<h4>Web Development</h4>
-										<p>
-                                            We have experienced PHP, JAVA EE & ASP .NET developers available everytime.
-                                           Our first priority is to efficient and secure website .
-										</p>
-									</div>
-								</div>
-								<!-- end about-details -->
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 col-xs-12">
-							<!-- end col-md-4 -->
-							<div class=" about-move">
-								<div class="services-details">
-									<div class="single-services">
-										<a class="services-icon" href="#">
-                                            <i class="fa fa-desktop"></i>
-									</a>
-										<h4>Desktop Applications</h4>
-										<p>
-                                            We will do desktop aplications too, On java and On .net. 
 
-										</p>
-									</div>
-								</div>
-								<!-- end about-details -->
-							</div>
-						</div>
-						<!-- End Left services -->
-						<div class="col-md-4 col-sm-4 col-xs-12">
-							<!-- end col-md-4 -->
-							<div class=" about-move">
-								<div class="services-details">
-									<div class="single-services">
-										<a class="services-icon" href="#">
-											<i class="fa fa-database"></i>
-										</a>
-										<h4>BigData & Analytics</h4>
-										<p>
-                                            We have best,expert data scientist that fulfill your demands.
-										</p>
-									</div>
-								</div>
-								<!-- end about-details -->
-							</div>
-						</div>
-						<!-- End Left services -->
-						<div class="col-md-4 col-sm-4 col-xs-12">
-							<!-- end col-md-4 -->
-							<div class=" about-move">
-								<div class="services-details">
-									<div class="single-services">
-										<a class="services-icon" href="#">
-											<i class="fa fa-pencil-square-o"></i>
-										</a>
-										<h4>Graphic Design</h4>
-										<p>
-                                            Senior graphic designers are always siting on their seats ,so contact us
-										</p>
-									</div>
-								</div>
-								<!-- end about-details -->
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- End Service area -->
-
-		<!-- Start portfolio Area -->
-        <div id="portfolio" class="portfolio-area area-padding text-center fix">
-            <div class="container-full">
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                        <div class="section-headline head-2">
-                            <h2>Our work</h2>
-                            <hr>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <!-- Start Portfolio -page -->
-                    <div class="awesome-project-1 fix">
+        <!-- Start Wellcome Area -->
+        <div class="wellcome-area parallax-bg" id="video" data-stellar-background-ratio="0.6">
+            <div class="well-bg area-padding">
+                <div class="test-overly"></div>
+                <div class="container">
+                    <div class="row">
                         <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="awesome-menu ">
-                                <ul class="project-menu">
-                                    <li>
-                                        <a href="#" class="active" data-filter="*" >All</a>
-                                    </li>
-                                    <li> 
-                                        <a href="#" data-filter=".development">development</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" data-filter=".design">design</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" data-filter=".photo">photoshop</a>
-                                    </li>
-                                </ul>				
+                            <div class="section-headline white-headline">
+                                <h2>Our Idea Video</h2>
+                                <hr>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="awesome-project-content">
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 design development">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/a.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/1.jpg">
-                                            <h4>Business City</h4>
-                                            <span>Web Development</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 photo">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/b.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/2.jpg">
-                                      	 <h4>Blue Sea</h4>
-                                            <span>Photosho</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 design">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/c.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/3.jpg">
-                                            <h4>Beautiful Nature</h4>
-                                            <span>Web Design</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 photo development">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/d.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/4.jpg">
-                                            <h4>Creative Team</h4>
-                                            <span>Web Development</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 development">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/e.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/5.jpg">
-                                            <h4>Beautiful Flower</h4>
-                                            <span>Web Development</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 design photo">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/f.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/6.jpg">
-                                            <h4>Night Hill</h4>
-                                            <span>Web Development</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
+                    <div class="row">
+                        <div class="col-md-12">
+                           <div class="skill-bg">
+                               <div class="row">
+                                
+                                <div class="col-xs-12 col-sm-12">
+	<div class="box rte">
+		
+		<iframe width="100%" height="400" frameborder="0"  src="https://www.youtube.com/embed/hLK5KXVhyLI"></iframe>
+	</div>
+</div>
 
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 design development">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/g.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/7.jpg">
-                                            <h4>Business City</h4>
-                                            <span>Web Development</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 photo">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/h.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/8.jpg">
-                                            <h4>Blue Sea</h4>
-                                            <span>Photosho</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
-                    <!-- single-awesome-project start -->
-                    <div class="col-md-4 col-sm-4 col-xs-12 design">
-                        <div class="single-awesome-project">
-                            <div class="awesome-img">
-                                <a href="#">
-                                    <img src="img/portfolio/i.png" alt="" />
-                                </a>
-                                <div class="add-actions text-center">
-                                    <div class="project-dec">
-                                        <a class="venobox" data-gall="myGallery" href="img/portfolio/9.jpg">
-                                            <h4>Beautiful Nature</h4>
-                                            <span>Web Design</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single-awesome-project end -->
-	
-
-
-
-
-                </div>
-            </div>	
-        </div>
-        <!-- awesome-portfolio end -->
-
-
-        <!-- Start counter Area -->
-        <div class="fun-fact-area">
-            <div class="container">
-                <div class="row">
-                    <div class="fun-wrap">
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-                            <!-- fun_text  -->
-                            <div class="fun_text">
-                                <a href="#"><i class="fa fa-handshake-o"></i></a>
-                                <div class="fun-content">
-                                    <span class="counter">67</span>
-                                    <h4>Project complete</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-                            <!-- fun_text  -->
-                            <div class="fun_text">
-                                <a href="#"><i class="fa fa-trophy"></i></a>
-                                <div class="fun-content">
-                                    <span class="counter">5</span>
-                                    <h4>Award winner</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4 col-xs-12">
-                            <!-- fun_text  -->
-                            <div class="fun_text">
-                                <a href="#"><i class="fa fa-users"></i></a>
-                                <div class="fun-content">
-                                    <span class="counter">20</span>
-                                    <h4>Happy Clients</h4>
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- End counter -->	
-
+        <!-- End Wellcome Area -->
+       
+       	
+		<!-- Start portfolio Area -->
+        
+        <!-- Start counter Area -->
+     
         <!-- Start Testimonials -->
 		<div class="testimonials-area area-padding">
             <div class="container ">
@@ -757,30 +409,30 @@ We are also dedicated to frequently study and research the rapid changes of inte
                                     <div class="testi-text">
                                         <p>
                                         	Keep it up guys 
-                                           <br>My personally good experience with zaptox solutions, best  youngester group 
+                                           <br>Such a problem solving idea 
 
                                         </p>
-                                        <h6>Hamza Rashid - HamSecure</h6>
+                                        <h6>Adnan Ashraf</h6>
                                     </div>
                                 </div>
                                 <!-- End single item -->
                                 <div class="single-testi">
                                     <div class="testi-text">
                                        Keep it up guys 
-                                           <br>My personally good experience with zaptox solutions, best  youngester group 
+                                           <br>Awesome Idea
 
                                         </p>
-                                        <h6>Hamza Rashid - HamSecure</h6>
+                                        <h6>Mehdi Raza Lakho/h6>
                                     </div>
                                 </div>
                                 <!-- End single item -->
                                 <div class="single-testi">
                                     <div class="testi-text">
                                         Keep it up guys 
-                                           <br>My personally good experience with zaptox solutions, best  youngester group 
+                                           <br>One the best way to reuse the water.
 
                                         </p>
-                                        <h6>Hamza Rashid - HamSecure</h6>
+                                        <h6>Sajid Ali</h6>
                                     </div>
                                 </div>
                                 <!-- End single item -->
@@ -793,7 +445,6 @@ We are also dedicated to frequently study and research the rapid changes of inte
             </div>
 		</div>
 		<!-- End Testimonials -->	
-
 
         <!-- Start Faq Area -->
         <div class="faq-area area-padding fix">
@@ -816,56 +467,29 @@ We are also dedicated to frequently study and research the rapid changes of inte
                                     <div class="panel panel-default">
                                         <div class="panel-heading" role="tab" id="headingOne">
                                             <h4 class="panel-title">
-                                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> Why  Zaptox Solution?</a></h4>
+                                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> What's our idea?</a></h4>
                                         </div>
                                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                             <div class="panel-body">
-Our professionals with great industry knowledge & years of expertise ensure that your business reaches unrivaled position & sets a new level of success.                                          </div>
+With increasing population number of problems increases too be it is a water or any other resource, we as a part of society has come up with the solution of saving water moreover we have given idea how to save water efficiently which is inspired by the gray water recycling in which waste water is generated in our homes is used like water from showers,kitchen,basins is collected which is further used in irrigation backyard gardens and further more but with a modifications like two water tanks and providing safe drinking water that wasn't provided by gray water system itself.
+                                       </div>
                                         </div>
                                     </div>
                                     <div class="panel panel-default">
                                         <div class="panel-heading" role="tab" id="headingTwo">
                                             <h4 class="panel-title">
                                                 <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                  What time zone is Zaptox in ?
+                                                  What is grey water?
                                                 </a>
                                             </h4>
                                         </div>
                                         <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                            <div class="panel-body">
-                                             We are located in +5 GMT time zone. The exact time of contact is certainly whatever suits you best, but it is best to make a time at which you can meet daily. A planned daily meeting makes the development process go much more smoothly.
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingThree">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                   What is our Software Development Process?
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                                            <div class="panel-body">
-                                               We use Agile Software Development Methodology.
-                                            </div>
+                                            <div class="panel-body">The relatively clean waste water from baths, sinks, washing machines, and other kitchen appliances.
 
-                                        </div>
-                                    </div>
-                                    <div class="panel panel-default">
-                                        <div class="panel-heading" role="tab" id="headingFour">
-                                            <h4 class="panel-title">
-                                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseTwo">
-                                                    Do you provide post-development maintenance?
-                                                </a>
-                                            </h4>
-                                        </div>
-                                        <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-                                            <div class="panel-body">
-                                                Yes, we do support all software we design on the basis of a product license. This generally includes bug tracking and fixing. Feature enhancements and developments are handled.
                                             </div>
                                         </div>
                                     </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -893,7 +517,7 @@ Our professionals with great industry knowledge & years of expertise ensure that
                             <div class="single-member">
                                 <div class="team-img">
                                     <a href="#">
-                                        <img src="img/team/saad.png" width="300" alt="">
+                                        <img src="img/team/saad.png"  width="300" height="500" alt="">
                                     </a>
                                     <div class="team-hover">
                                         <ul>
@@ -906,7 +530,7 @@ Our professionals with great industry knowledge & years of expertise ensure that
                                 </div>
                                 <div class="team-content text-center">
                                     <h4><a href="https://www.facebook.com/saad.coder">Saad Jatt</a></h4>
-                                    <p>Web Developer</p>
+                                    <p>Database Specilist</p>
                                 </div>
                             </div>
                         </div>
@@ -915,7 +539,7 @@ Our professionals with great industry knowledge & years of expertise ensure that
                             <div class="single-member">
                                 <div class="team-img">
                                     <a href="https://www.facebook.com/ammie.sid">
-                                        <img src="img/team/vijay.jpg" alt="">
+                                        <img src="img/team/vijay.jpg" alt=""   width="300" height="500">
                                     </a>
                                     <div class="team-hover">
                                         <ul>
@@ -927,8 +551,8 @@ Our professionals with great industry knowledge & years of expertise ensure that
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
-                                    <h4><a href="#">Vijay Kumar</a></h4>
-                                    <p>Software Engineer</p>
+                                    <h4><a href="#">Vijay Kumar Soni</a></h4>
+                                    <p>IT Specilist</p>
                                 </div>
                             </div>
                         </div>
@@ -936,7 +560,7 @@ Our professionals with great industry knowledge & years of expertise ensure that
                             <div class="single-member">
                                 <div class="team-img">
                                     <a href="#">
-                                        <img src="img/team/mehdi.jpg" alt="">
+                                        <img src="img/team/hira.jpg"  width="300" height="500"  alt="">
                                     </a>
                                     <div class="team-hover">
                                         <ul>
@@ -948,8 +572,77 @@ Our professionals with great industry knowledge & years of expertise ensure that
                                     </div>
                                 </div>
                                 <div class="team-content text-center">
-                                    <h4><a href="#">Mehdi Raza Lakho</a></h4>
-                                    <p>Android Developer</p>
+                                    <h4><a href="#">Hira Ansari</a></h4>
+                                    <p>Water purity Specilist</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="team-member">
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="single-member">
+                                <div class="team-img">
+                                    <a href="#">
+                                        <img src="img/team/masood.jpg" width="300" height="500" alt="">
+                                    </a>
+                                    <div class="team-hover">
+                                        <ul>
+                                            <li><a href="https://www.facebook.com/saad.coder"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-google"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="team-content text-center">
+                                    <h4><a href="https://www.facebook.com/masood.junejo.7">Masood Junejo</a></h4>
+                                    <p>UI UX Specialist</p>
+                                </div>
+                            </div>
+                        </div>
+                      
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="single-member">
+                                <div class="team-img">
+                                    <a href="https://www.facebook.com/syedsaeed">
+                                        <img src="img/team/saeed.jpg"   width="300" height="300" alt="">
+                                    </a>
+                                    <div class="team-hover">
+                                        <ul>
+                                            <li><a href="https://www.facebook.com/syedsaeed"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-google"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="team-content text-center">
+                                    <h4><a href="#">Saeed Shah</a></h4>
+                                    <p>Hardware Specialist</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="single-member">
+                                <div class="team-img">
+                                    <a href="#">
+                                        <img src="img/team/amsa.jpg"  width="300" height="500" alt="">
+                                    </a>
+                                    <div class="team-hover">
+                                        <ul>
+                                            <li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-google"></i></a></li>
+                                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="team-content text-center">
+                                    <h4><a href="#">Amsa Shaikh</a></h4>
+                                    <p>Research Specialist</p>
                                 </div>
                             </div>
                         </div>
@@ -959,71 +652,6 @@ Our professionals with great industry knowledge & years of expertise ensure that
         </div>
         <!-- team area end -->	
 
-        <!-- Start Wellcome Area -->
-        <div class="wellcome-area parallax-bg" data-stellar-background-ratio="0.6">
-            <div class="well-bg area-padding">
-                <div class="test-overly"></div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 col-sm-12 col-xs-12">
-                            <div class="section-headline white-headline">
-                                <h2>Our best skill</h2>
-                                <hr>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                           <div class="skill-bg">
-                               <div class="row">
-                                    <div class="col-md-6 col-sm-6 col-xs-12">
-                                        <div class="skill-images">
-                                            <img src="img/about/ab.png" alt="">						
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-6 col-xs-12">
-                                        <div class="our-skill-team fix">
-                                            <div class="skill">
-                                                <!-- progress start -->
-                                                <div class="progress">
-                                                    <div class="progress-bar progress-bar-striped wow fadeInLeft" data-progress="30%" style="width: 100%;" data-wow-duration="1.5s" data-wow-delay="1.2s"> <span>100%</span>
-                                                    </div>
-													<div class="lead">Tecchnical Skills</div>
-                                                </div>
-                                                <!-- progress end -->						
-                                                <!-- progress start -->
-                                                <div class="progress">
-                                                    <div class="progress-bar progress-bar-striped wow fadeInLeft" data-progress="60%" style="width: 100%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>100%</span> </div>
-                                                    <div class="lead">Communication Skills</div>
-                                                </div>
-                                                <!-- progress end -->
-                                                 <div class="progress">
-                                                    <div class="progress-bar progress-bar-striped wow fadeInLeft" data-progress="60%" style="width: 100%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>100%</span> </div>
-                                                    <div class="lead">Business Skills</div>
-                                                </div>
-                                                <!-- progress start -->			
-                                                 <div class="progress">
-                                                    <div class="progress-bar progress-bar-striped wow fadeInLeft" data-progress="60%" style="width: 100%;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>100%</span> </div>
-                                                    <div class="lead">Problem Solving Skills</div>
-                                                </div>				
-                                            
-                                                <!-- progress end -->
-                                                <!-- progress start -->
-                                            
-                                                <!-- progress end -->						
-                                            </div>							
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Wellcome Area -->
-       
-       	
 
         <!--Blog Area Start-->
         <div id="blog" class="blog-area area-padding">
@@ -1175,7 +803,8 @@ Our professionals with great industry knowledge & years of expertise ensure that
 											<img src="img/logo/logo1.png" alt="">
 										</a>
 									</div>
-                                    <p>Zaptox is a software house established in 2017. We provide innovative and fully integrated solutions that suits your business demands</p>
+                                    <p>With increasing population number of problems increases too be it is a water or any other resource, we as a part of society has come up with the solution of saving water moreover we have given idea how to save water efficiently which is inspired by the gray water recycling in which waste water is generated in our homes is used like water from showers,kitchen,basins is collected which is further used in irrigation backyard gardens and further more but with a modifications like two water tanks and providing safe drinking water that wasn't provided by gray water system itself.
+</p>
 									<div class="footer-icons">
 										<ul>
 											<li>
@@ -1256,8 +885,8 @@ Our professionals with great industry knowledge & years of expertise ensure that
                                     </p>
                                     <div class="footer-contacts">
                                         <p><span>Phone:</span> +92 308 8337790</p>
-                                        <p><span>Phone:</span> +92 333 2603930</p>
-                                        <p><span>Email:</span> zaptox.site@gmail.com</p>
+                                        <p><span>Phone:</span> +92 331 3325691</p>
+                                        <p><span>Email:</span> vijay@zaptox.com</p>
                                         <p><span>Working Hours:</span> 9am - 6pm</p>
                                     </div>
                                 </div>
