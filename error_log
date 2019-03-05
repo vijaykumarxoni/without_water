@@ -1,0 +1,4 @@
+[26-Feb-2018 15:52:24 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zaptox/public_html/include/dbcon.php on line 3
+[26-Feb-2018 15:52:24 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zaptox/public_html/include/dbcon.php on line 5
+[26-Feb-2018 15:52:24 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/zaptox/public_html/include/dbcon.php on line 7
+[26-Feb-2018 16:03:41 America/Chicago] PHP Parse error:  syntax error, unexpected '.164' (T_DNUMBER) in /home/zaptox/public_html/include/dbcon.php on line 2
