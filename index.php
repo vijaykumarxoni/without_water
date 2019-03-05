@@ -238,7 +238,7 @@ $('#submit').click(function(){
                                             
                                             <!-- layer 3 -->
                                             <div class="layer-1-3  wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                                                <a href="#video" class="ready-btn right-btn page-scroll" >View Ideal View</a>
+                                                <a href="#video" class="ready-btn right-btn page-scroll" >View Model View</a>
                                                 <a href="#contact" class="page-scroll ready-btn"  title="Get Quote" >Contact Us</a>
                                             </div>
                                         </div>
