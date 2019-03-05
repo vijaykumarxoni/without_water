@@ -12,7 +12,7 @@ include("include/dbcon.php");
 <head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<title>Zaptox Software Solutions</title>
+		<title>Zaptox  Solutions</title>
 		<meta name="description" content="Zaptox is a software house established in 2017. We provide imaginative,innovative and fully integrated solutions that suits your business demands">
 		<meta name="viewoprt" content="width=device-width, initial-scale=1">
 
